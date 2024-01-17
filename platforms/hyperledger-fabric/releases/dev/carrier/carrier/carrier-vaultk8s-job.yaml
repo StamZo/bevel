@@ -24,7 +24,7 @@ spec:
       vault:
         type: hashicorp
         role: vault-role
-        address: http://192.168.49.2:30914
+        address: http://192.168.49.2:32556
         authPath: localcarrier
         network: fabric
         secretEngine: secretsv2

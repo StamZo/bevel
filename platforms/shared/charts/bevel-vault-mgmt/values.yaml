@@ -25,7 +25,7 @@ global:
     authPath: supplychain
     #Provide the network type for which the policy will be configured
     #Eg. network: besu
-    network: besu # choose from: besu | corda | fabric | corda-ent | quorum
+    network: fabric # choose from: besu | corda | fabric | corda-ent | quorum
     #Provide the vault secret engine name
     #Eg. secretEngine: secretsv2
     secretEngine: secretsv2
